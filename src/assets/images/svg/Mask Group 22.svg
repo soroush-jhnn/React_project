@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="573" height="501" viewBox="0 0 573 501">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_200" data-name="Rectangle 200" width="573" height="501" transform="translate(334.934 362)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_22" data-name="Mask Group 22" transform="translate(-334.934 -362)" clip-path="url(#clip-path)">
+    <g id="undraw_secure_login_pdn4" transform="translate(475.885 394.612)">
+      <path id="Path_907" data-name="Path 907" d="M669.733,416.312h-404.9c-7.5,0-13.576-6.638-13.576-14.826h0q220.162-27.942,432.048,0h0c0,8.188-6.078,14.826-13.576,14.826Z" transform="translate(-251.261 -39.994)" fill="#2f2e41"/>
+      <path id="Path_908" data-name="Path 908" d="M683.309,462.611l-432.048-.872,50.073-92.008.24-.436V166.52c0-10.353,7.685-18.743,17.164-18.742h294.7c9.48,0,17.164,8.392,17.162,18.743V370.69Z" transform="translate(-251.261 -100.248)" fill="#3f3d56"/>
+      <path id="Path_909" data-name="Path 909" d="M310.516,158.233a5.871,5.871,0,0,0-5.59,6.1V349.226a5.871,5.871,0,0,0,5.59,6.1H608.4a5.872,5.872,0,0,0,5.59-6.1V164.337a5.871,5.871,0,0,0-5.59-6.1Z" transform="translate(-243.433 -97.621)" fill="#fff"/>
+      <path id="Path_910" data-name="Path 910" d="M313.163,335.257a2.4,2.4,0,0,0-2.177,1.523l-15.429,36.629a2.826,2.826,0,0,0,.159,2.5,2.354,2.354,0,0,0,2.017,1.2H622.2a2.358,2.358,0,0,0,2.038-1.241,2.826,2.826,0,0,0,.1-2.546L607.569,336.7a2.372,2.372,0,0,0-2.142-1.446Z" transform="translate(-244.832 -53.128)" fill="#2f2e41"/>
+      <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="3.594" cy="3.925" rx="3.594" ry="3.925" transform="translate(211.233 49.711)" fill="#fff"/>
+      <path id="Path_911" data-name="Path 911" d="M411.706,374.287a2.444,2.444,0,0,0-2.313,1.936l-3.87,15.7a2.809,2.809,0,0,0,.411,2.272,2.331,2.331,0,0,0,1.9,1.025h73.6a2.34,2.34,0,0,0,1.951-1.1,2.818,2.818,0,0,0,.312-2.373l-4.976-15.7a2.422,2.422,0,0,0-2.264-1.76Z" transform="translate(-228.771 -43.319)" fill="#2f2e41"/>
+      <path id="Path_912" data-name="Path 912" d="M495.916,212.569v3.488H166.649l.248-.436v-3.053Z" transform="translate(-116.577 53.426)" fill="#2f2e41"/>
+      <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="55.903" cy="61.048" rx="55.903" ry="61.048" transform="translate(314.254 0)" fill="#0064ff"/>
+      <path id="Path_913" data-name="Path 913" d="M600.811,187.37H554.492a3.355,3.355,0,0,1-3.195-3.488V153.358a3.355,3.355,0,0,1,3.195-3.488h46.319a3.355,3.355,0,0,1,3.194,3.488v30.524a3.354,3.354,0,0,1-3.194,3.488Zm-46.319-34.013v30.524h46.322l0-30.524Z" transform="translate(-207.496 -99.723)" fill="#fff"/>
+      <path id="Path_914" data-name="Path 914" d="M590.5,158.963h-28.75V145.009c0-10.107,6.046-17.442,14.375-17.442S590.5,134.9,590.5,145.009Zm-25.556-3.488h22.361V145.009c0-8.216-4.6-13.954-11.181-13.954s-11.18,5.738-11.18,13.954Z" transform="translate(-205.971 -105.328)" fill="#fff"/>
+      <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="3.194" cy="3.488" rx="3.194" ry="3.488" transform="translate(366.962 64.537)" fill="#fff"/>
+      <path id="Path_915" data-name="Path 915" d="M570.088,280.023H339.874a4.478,4.478,0,0,1-4.263-4.656V213a4.478,4.478,0,0,1,4.263-4.656H570.088A4.478,4.478,0,0,1,574.351,213v62.362A4.478,4.478,0,0,1,570.088,280.023ZM339.874,210.211A2.686,2.686,0,0,0,337.316,213v62.362a2.686,2.686,0,0,0,2.558,2.793H570.088a2.686,2.686,0,0,0,2.558-2.793V213a2.686,2.686,0,0,0-2.558-2.793Z" transform="translate(-238.957 -85.025)" fill="#e6e6e6"/>
+      <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="17.366" cy="18.964" rx="17.366" ry="18.964" transform="translate(119.322 137.803)" fill="#e6e6e6"/>
+      <path id="Path_916" data-name="Path 916" d="M405.919,224.972a3.173,3.173,0,0,0,0,6.321H542.367a3.173,3.173,0,0,0,0-6.321Z" transform="translate(-229.124 -80.847)" fill="#e6e6e6"/>
+      <path id="Path_917" data-name="Path 917" d="M405.919,240.127a3.173,3.173,0,0,0,0,6.321h58.714a3.173,3.173,0,0,0,0-6.321Z" transform="translate(-229.124 -77.038)" fill="#e6e6e6"/>
+    </g>
+  </g>
+</svg>

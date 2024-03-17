@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_176" data-name="Rectangle 176" width="150" height="150" transform="translate(240 1234)" fill="#fff"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.041" cy="0.035" r="0.66" gradientTransform="translate(-0.052) scale(1.104 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#759fff"/>
+      <stop offset="1" stop-color="#3e78fc"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.364" cy="0.128" r="0.861" gradientTransform="translate(-0.07) scale(1.14 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5b8dff"/>
+      <stop offset="1" stop-color="#3f7aff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.719" cy="0.128" r="0.619" gradientTransform="translate(0.064) scale(0.872 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3567de"/>
+      <stop offset="1" stop-color="#376ae3"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="0.339" cy="0.078" r="0.675" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="0.026" cy="-0.02" r="1.149" gradientTransform="translate(0.086) scale(0.828 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6491f9"/>
+      <stop offset="1" stop-color="#3567de"/>
+    </radialGradient>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(-240 -1234)" clip-path="url(#clip-path)">
+    <g id="jobIcon" transform="translate(240 1235.826)">
+      <path id="Path_838" data-name="Path 838" d="M98.552,132.688H21.643A21.644,21.644,0,0,1,0,111.045v-89.4A21.644,21.644,0,0,1,21.643,0h76.91A21.644,21.644,0,0,1,120.2,21.643v89.4A21.644,21.644,0,0,1,98.552,132.688Z" fill="url(#radial-gradient)"/>
+      <path id="Path_839" data-name="Path 839" d="M57.468,42.148H31.2a6.71,6.71,0,0,1-6.711-6.711h0A6.71,6.71,0,0,1,31.2,28.727H57.468a6.71,6.71,0,0,1,6.711,6.711h0A6.71,6.71,0,0,1,57.468,42.148Z" transform="translate(-4.081 -4.788)" fill="#fff"/>
+      <path id="Path_840" data-name="Path 840" d="M73.745,108.968H31.2a6.71,6.71,0,0,1-6.711-6.711h0A6.71,6.71,0,0,1,31.2,95.547H73.745a6.71,6.71,0,0,1,6.711,6.711h0A6.71,6.71,0,0,1,73.745,108.968Z" transform="translate(-4.081 -15.924)" fill="#fff"/>
+      <path id="Path_841" data-name="Path 841" d="M91.449,74.787H31.2a6.71,6.71,0,0,1-6.711-6.711h0A6.71,6.71,0,0,1,31.2,61.366H91.449a6.71,6.71,0,0,1,6.711,6.711h0A6.71,6.71,0,0,1,91.449,74.787Z" transform="translate(-4.081 -10.228)" fill="#fff"/>
+      <path id="Path_842" data-name="Path 842" d="M141.5,115.278,99.323,158.04c-3.516,5.116-8.025,4.956-13.142,1.434l-.88-.69c-5.116-3.516-2.3-10.3,1.226-15.42l29.127-46.938c3.516-5.116,8.448-1.089,13.564,2.427h0C134.333,102.38,145.017,110.161,141.5,115.278Z" transform="translate(-13.751 -15.666)" fill="url(#radial-gradient-2)"/>
+      <path id="Path_843" data-name="Path 843" d="M118.518,101.172s-5.223,7.978-2.653,12.689,11.4,10.857,16.11,12.856,12.85-5.967,12.85-5.967S123.658,116.878,118.518,101.172Z" transform="translate(-19.192 -16.862)" fill="url(#radial-gradient-3)"/>
+      <circle id="Ellipse_22" data-name="Ellipse 22" cx="25.7" cy="25.7" r="25.7" transform="translate(98.6 52.524)" fill="url(#radial-gradient-4)"/>
+      <path id="Path_844" data-name="Path 844" d="M167.011,112h0a4.289,4.289,0,0,1-6.02.69L117.568,78.207a4.289,4.289,0,0,1-.69-6.02h0a4.289,4.289,0,0,1,6.02-.69l43.422,34.487A4.291,4.291,0,0,1,167.011,112Z" transform="translate(-19.325 -11.761)" fill="url(#radial-gradient-5)"/>
+      <path id="Path_845" data-name="Path 845" d="M28.585,131.512H24.516s-2.784.107-1.392,2.356a18.613,18.613,0,0,0,1.928,2.784v5.14s-.018,3.105,2.98,1.214a29.437,29.437,0,0,0,2.873-1.874l5.783-.125s2.07-.928.428-2.927S34.9,135.3,34.9,135.3v-5.64s-.143-2.284-2-.928S28.585,131.512,28.585,131.512Z" transform="translate(-3.789 -21.383)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
